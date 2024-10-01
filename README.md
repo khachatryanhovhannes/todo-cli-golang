@@ -18,5 +18,5 @@ A simple command-line interface (CLI) application for managing a todo list, buil
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-cli.git
+   git clone https://github.com/khachatryanhovhannes/todo-cli-golang.git
    ```
